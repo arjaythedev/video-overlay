@@ -1,0 +1,9 @@
+node_modules/
+out/
+*.MOV
+*.mov
+*.mp4
+*.MP4
+frame.png
+*_transcript.json
+.DS_Store
